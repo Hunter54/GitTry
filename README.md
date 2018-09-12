@@ -1,3 +1,3 @@
 # GitTry
-Doar un test
+Doar un test  
 Al doilea test
